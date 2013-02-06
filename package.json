@@ -1,0 +1,26 @@
+{
+  "name": "grunter",
+  "version": "0.0.1",
+  "description": "Grunt (<0.4.0) that works in windows.",
+  "bin": {
+	  "grunter": "bin/grunter.js"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "grunter test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/johngeorgewright/grunter.git"
+  },
+  "keywords": [
+    "grunt"
+  ],
+  "author": "John Wright <johngeorge.wright@gmail.com>",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "d19279afee00c150d99028330aa090b72210ca76",
+  "dependencies": {
+	  "grunt": "<0.4.0"
+  }
+}
