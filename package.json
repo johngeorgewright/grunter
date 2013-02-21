@@ -1,6 +1,6 @@
 {
   "name": "grunter",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Grunt (<0.4.0) that works in windows.",
   "bin": {
 	  "grunter": "bin/grunter.js"
