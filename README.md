@@ -1,6 +1,8 @@
 grunter
 =======
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/johngeorgewright/grunter.svg)](https://greenkeeper.io/)
+
 Grunt (&lt;0.4.0) that works in windows
 
 Useage
